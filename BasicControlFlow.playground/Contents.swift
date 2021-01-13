@@ -9,9 +9,10 @@ import UIKit
     5 - Short Circuiting
     6 - Encapsulating Variables
     7 - Loops
- 
- 
+    
+   Studies made from: By Ray Fix. “Swift Apprentice.” Apple Books.
  */
+
 
 
 // Comparison Operators
